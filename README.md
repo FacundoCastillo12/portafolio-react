@@ -1,4 +1,6 @@
+Project created based on the video from [`CodeCommerce`](https://www.youtube.com/watch?v=CMx51wpd7g4&ab_channel=CodeCommerce) to learn Next.js and understand its functionalities through practice.
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
 
 ## Getting Started
 
